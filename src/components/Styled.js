@@ -1,4 +1,3 @@
-import React from "react"
 import Styled from "styled-components"
 const Banner=Styled.header`
  /* min-height: calc(100vh - 66px); */
